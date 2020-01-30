@@ -2,7 +2,19 @@ This mini project was created to
 
 1. display a 5-day weather forecast, where each day shows the high and low temperatures
 
-------
+
+## Thought process
+
+Showing 5 days forecast
+
+As i am using a free account of the Open Weather Map, the API returns weather data every 3 hours. That's 8 readings for each day, so the API returns 40 results for our 5 day forecast. For us to show a daily forecast, we will need to filter the results to only return one result. We can do this by only including results that match a particular time.
+
+Showing the Day
+
+The API gives us the following date format "2017-02-16 12:00:00". From this, it's possible to display the day using .getDay(). 
+
+
+---------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
