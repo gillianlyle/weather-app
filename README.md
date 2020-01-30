@@ -1,3 +1,9 @@
+This mini project was created to
+
+1. a 5-day weather forecast, where each day shows the high and low temperatures
+
+------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
