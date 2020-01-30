@@ -1,6 +1,6 @@
 This mini project was created to
 
-1. a 5-day weather forecast, where each day shows the high and low temperatures
+1. display a 5-day weather forecast, where each day shows the high and low temperatures
 
 ------
 
